@@ -1,0 +1,10 @@
+.rounded-circle {
+    width: 200px;
+    height: 200px;
+    line-height: 200px;
+    border-radius: 10%;
+    font-size: 20px;
+    color: #fff;
+    background: #000;
+    border-left: 50rem;
+}
